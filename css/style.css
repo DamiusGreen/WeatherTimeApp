@@ -4,11 +4,12 @@
 } 
 
 .site {
-  background-image: url("/images/cloud_1.jpg");
+  background-image: url("/images/cloud_1.JPG");
+  background-color: rgb(98, 133, 179);
 }
 
 .wallpaper {
-  background-image: url("/images/sky_1.jpg");
+  background-image: url("/images/sky_1.JPG");
   background-repeat: no-repeat;
   background-size: cover;
   padding-bottom: 10px;
